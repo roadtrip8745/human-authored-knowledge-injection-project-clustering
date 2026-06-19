@@ -1,0 +1,13 @@
+condition,role,threshold,same_project_floor,record_count,gold_cluster_count,pred_cluster_count,pairwise_precision,pairwise_recall,pairwise_f1,bcubed_precision,bcubed_recall,bcubed_f1,cluster_purity,false_merge_count,false_split_count,true_positive_pairs,true_negative_pairs
+human_partial,human_authored_knowledge,0.62,0.9,120,18,60,1.0,0.321951,0.487085,1.0,0.438948,0.610096,1.0,0,278,132,6730
+human_full,human_authored_knowledge,0.62,0.9,120,18,45,1.0,0.434146,0.605442,1.0,0.545179,0.705651,1.0,0,232,178,6730
+human_noisy,human_authored_knowledge,0.62,0.9,120,18,62,1.0,0.285366,0.444023,1.0,0.408671,0.580222,1.0,0,293,117,6730
+human_partial,human_authored_knowledge,0.62,0.94,120,18,60,1.0,0.321951,0.487085,1.0,0.438948,0.610096,1.0,0,278,132,6730
+human_full,human_authored_knowledge,0.62,0.94,120,18,45,1.0,0.434146,0.605442,1.0,0.545179,0.705651,1.0,0,232,178,6730
+human_noisy,human_authored_knowledge,0.62,0.94,120,18,62,1.0,0.285366,0.444023,1.0,0.408671,0.580222,1.0,0,293,117,6730
+human_partial,human_authored_knowledge,0.62,0.96,120,18,60,1.0,0.321951,0.487085,1.0,0.438948,0.610096,1.0,0,278,132,6730
+human_full,human_authored_knowledge,0.62,0.96,120,18,45,1.0,0.434146,0.605442,1.0,0.545179,0.705651,1.0,0,232,178,6730
+human_noisy,human_authored_knowledge,0.62,0.96,120,18,62,1.0,0.285366,0.444023,1.0,0.408671,0.580222,1.0,0,293,117,6730
+human_partial,human_authored_knowledge,0.62,0.98,120,18,60,1.0,0.321951,0.487085,1.0,0.438948,0.610096,1.0,0,278,132,6730
+human_full,human_authored_knowledge,0.62,0.98,120,18,45,1.0,0.434146,0.605442,1.0,0.545179,0.705651,1.0,0,232,178,6730
+human_noisy,human_authored_knowledge,0.62,0.98,120,18,62,1.0,0.285366,0.444023,1.0,0.408671,0.580222,1.0,0,293,117,6730

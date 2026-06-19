@@ -1,0 +1,203 @@
+{
+  "created_from": "data\\synthetic\\extraction_run_20260618_085129\\mentions_extracted.jsonl",
+  "outputs": {
+    "native": "data\\synthetic\\extraction_run_20260618_085129\\external_test_120\\mentions_external_test_120_native.jsonl",
+    "compatible": "data\\synthetic\\extraction_run_20260618_085129\\external_test_120\\mentions_external_test_120.jsonl",
+    "summary": "data\\synthetic\\extraction_run_20260618_085129\\external_test_120\\external_test_120_summary.json"
+  },
+  "sampling": {
+    "source_count": 398,
+    "matched_candidate_count": 398,
+    "target_size": 120,
+    "cluster_quota": {
+      "P0001": 7,
+      "P0002": 11,
+      "P0003": 6,
+      "P0004": 8,
+      "P0005": 12,
+      "P0006": 10,
+      "P0007": 8,
+      "P0008": 5,
+      "P0009": 8,
+      "P0010": 9,
+      "P0011": 3,
+      "P0012": 7,
+      "P0014": 7,
+      "P0015": 3,
+      "P0016": 7,
+      "P0017": 3,
+      "P0018": 3,
+      "P0019": 3
+    },
+    "case_quota": {
+      "abbrev_var": 8,
+      "base": 19,
+      "chain_risk": 15,
+      "conflict_risk": 5,
+      "context_noise": 3,
+      "cross_dept": 13,
+      "general_heavy": 10,
+      "lexical_var": 8,
+      "multi_project_reference": 20,
+      "same_system_module": 19
+    },
+    "week_quota": {
+      "2026-W10": 16,
+      "2026-W11": 24,
+      "2026-W12": 16,
+      "2026-W13": 22,
+      "2026-W14": 21,
+      "2026-W15": 21
+    }
+  },
+  "source_summary": {
+    "count": 398,
+    "cluster_count": 18,
+    "cluster_counts": {
+      "P0005": 45,
+      "P0002": 41,
+      "P0006": 38,
+      "P0010": 33,
+      "P0007": 30,
+      "P0009": 29,
+      "P0004": 28,
+      "P0012": 26,
+      "P0014": 24,
+      "P0001": 24,
+      "P0016": 23,
+      "P0003": 20,
+      "P0008": 14,
+      "P0015": 6,
+      "P0011": 6,
+      "P0017": 4,
+      "P0018": 4,
+      "P0019": 3
+    },
+    "case_type_counts": {
+      "multi_project_reference": 70,
+      "base": 65,
+      "same_system_module": 63,
+      "chain_risk": 51,
+      "cross_dept": 44,
+      "general_heavy": 34,
+      "lexical_var": 26,
+      "abbrev_var": 24,
+      "conflict_risk": 15,
+      "context_noise": 6
+    },
+    "difficulty_counts": {
+      "hard": 199,
+      "medium": 108,
+      "easy": 91
+    },
+    "week_counts": {
+      "2026-W11": 78,
+      "2026-W13": 73,
+      "2026-W15": 71,
+      "2026-W14": 70,
+      "2026-W10": 54,
+      "2026-W12": 52
+    },
+    "cross_dept_count": 44
+  },
+  "native_subset_summary": {
+    "count": 120,
+    "cluster_count": 18,
+    "cluster_counts": {
+      "P0005": 12,
+      "P0002": 11,
+      "P0006": 10,
+      "P0010": 9,
+      "P0004": 8,
+      "P0007": 8,
+      "P0009": 8,
+      "P0016": 7,
+      "P0014": 7,
+      "P0012": 7,
+      "P0001": 7,
+      "P0003": 6,
+      "P0008": 5,
+      "P0019": 3,
+      "P0015": 3,
+      "P0011": 3,
+      "P0017": 3,
+      "P0018": 3
+    },
+    "case_type_counts": {
+      "base": 19,
+      "same_system_module": 16,
+      "multi_project_reference": 16,
+      "chain_risk": 15,
+      "conflict_risk": 13,
+      "cross_dept": 13,
+      "general_heavy": 10,
+      "lexical_var": 8,
+      "abbrev_var": 7,
+      "context_noise": 3
+    },
+    "difficulty_counts": {
+      "hard": 60,
+      "medium": 33,
+      "easy": 27
+    },
+    "week_counts": {
+      "2026-W13": 26,
+      "2026-W11": 23,
+      "2026-W14": 22,
+      "2026-W15": 18,
+      "2026-W12": 16,
+      "2026-W10": 15
+    },
+    "cross_dept_count": 13
+  },
+  "compatible_subset_summary": {
+    "count": 120,
+    "cluster_count": 18,
+    "cluster_counts": {
+      "P0005": 12,
+      "P0002": 11,
+      "P0006": 10,
+      "P0010": 9,
+      "P0004": 8,
+      "P0007": 8,
+      "P0009": 8,
+      "P0016": 7,
+      "P0014": 7,
+      "P0012": 7,
+      "P0001": 7,
+      "P0003": 6,
+      "P0008": 5,
+      "P0019": 3,
+      "P0015": 3,
+      "P0011": 3,
+      "P0017": 3,
+      "P0018": 3
+    },
+    "case_type_counts": {
+      "base": 19,
+      "same_system_module": 16,
+      "multi_project_reference": 16,
+      "chain_risk": 15,
+      "conflict_risk": 13,
+      "cross_dept": 13,
+      "general_heavy": 10,
+      "lexical_var": 8,
+      "abbrev_var": 7,
+      "context_noise": 3
+    },
+    "difficulty_counts": {
+      "hard": 60,
+      "medium": 33,
+      "easy": 27
+    },
+    "week_counts": {
+      "2026-W13": 26,
+      "2026-W11": 23,
+      "2026-W14": 22,
+      "2026-W15": 18,
+      "2026-W12": 16,
+      "2026-W10": 15
+    },
+    "cross_dept_count": 13
+  }
+}

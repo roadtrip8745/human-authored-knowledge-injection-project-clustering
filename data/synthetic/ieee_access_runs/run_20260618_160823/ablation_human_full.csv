@@ -1,0 +1,7 @@
+condition,role,threshold,same_project_floor,ablation,record_count,gold_cluster_count,pred_cluster_count,pairwise_precision,pairwise_recall,pairwise_f1,bcubed_precision,bcubed_recall,bcubed_f1,cluster_purity,false_merge_count,false_split_count,true_positive_pairs,true_negative_pairs
+baseline_signature,baseline,0.62,0.96,baseline,120,18,89,0.947368,0.087805,0.160714,0.988889,0.236306,0.381458,0.991667,2,374,36,6728
+human_full_default,human_authored_knowledge,0.62,0.96,none,120,18,45,1.0,0.434146,0.605442,1.0,0.545179,0.705651,1.0,0,232,178,6730
+human_full_no_cannot_merge,human_authored_knowledge,0.62,0.96,remove_cannot_merge,120,18,44,0.978022,0.434146,0.601351,0.983333,0.545179,0.701456,0.983333,4,232,178,6726
+human_full_no_same_project_floor,human_authored_knowledge,0.62,0.96,remove_same_project_floor,120,18,84,1.0,0.114634,0.205689,1.0,0.256809,0.408668,1.0,0,363,47,6730
+human_full_no_weak_boost,human_authored_knowledge,0.62,0.96,remove_weak_boost,120,18,51,1.0,0.407317,0.578856,1.0,0.524676,0.688246,1.0,0,243,167,6730
+human_full_no_generic_safety,human_authored_knowledge,0.62,0.96,remove_generic_mention_safety,120,18,26,0.968051,0.739024,0.838174,0.97619,0.808369,0.884389,0.983333,10,107,303,6720

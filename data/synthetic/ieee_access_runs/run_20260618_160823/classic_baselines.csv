@@ -1,0 +1,5 @@
+﻿condition,role,threshold,record_count,gold_cluster_count,pred_cluster_count,pairwise_precision,pairwise_recall,pairwise_f1,bcubed_precision,bcubed_recall,bcubed_f1,cluster_purity,false_merge_count,false_split_count,true_positive_pairs,true_negative_pairs
+exact,classic_baseline,1.0,120,18,52,0.945946,0.341463,0.501792,0.977778,0.439378,0.606304,0.983333,8,270,140,6722
+jaccard,classic_baseline,0.5,120,18,25,0.739796,0.707317,0.723192,0.876042,0.757621,0.812539,0.891667,102,120,290,6628
+lexical,classic_baseline,0.55,120,18,42,0.960784,0.478049,0.638436,0.977778,0.545568,0.700359,0.983333,8,214,196,6722
+proposed_signature,classic_baseline,0.62,120,18,89,0.947368,0.087805,0.160714,0.988889,0.236306,0.381458,0.991667,2,374,36,6728

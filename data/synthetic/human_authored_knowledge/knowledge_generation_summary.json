@@ -1,0 +1,46 @@
+{
+  "project_count": 18,
+  "partial_project_count": 12,
+  "partial_project_names": [
+    "DW 매출 마트 재구축",
+    "ERP 생산 모듈 안정화",
+    "ERP 인사 모듈 개편",
+    "ERP 재무 모듈 개선",
+    "ITSM 결재 워크플로 개선",
+    "MES 품질 검사 인터페이스",
+    "OMS 주문 상태 연계",
+    "PI 프로세스 혁신 포털",
+    "QM 품질지표 코크핏",
+    "SCM 수요계획 대시보드",
+    "WMS 출고 스캔 오류 대응",
+    "백업 복구 테스트"
+  ],
+  "all_project_names": [
+    "DW 매출 마트 재구축",
+    "EDI 협력사 인터페이스",
+    "ERP 생산 모듈 안정화",
+    "ERP 인사 모듈 개편",
+    "ERP 재무 모듈 개선",
+    "ITSM 결재 워크플로 개선",
+    "LMS 교육 이력 마이그레이션",
+    "MDM 기준정보 정비",
+    "MES 품질 검사 인터페이스",
+    "OMS 주문 상태 연계",
+    "PI 생산성 개선 과제",
+    "PI 프로세스 혁신 포털",
+    "PLM 도면 개정 관리",
+    "QM 품질지표 코크핏",
+    "SCM 수요계획 대시보드",
+    "SSO 계정 연동",
+    "WMS 출고 스캔 오류 대응",
+    "백업 복구 테스트"
+  ],
+  "files": {
+    "full": "data\\synthetic\\human_authored_knowledge\\project_knowledge_full.md",
+    "partial": "data\\synthetic\\human_authored_knowledge\\project_knowledge_partial.md",
+    "noisy": "data\\synthetic\\human_authored_knowledge\\project_knowledge_noisy.md",
+    "hitl_round_1": "data\\synthetic\\human_authored_knowledge\\hitl_feedback_round_1.md",
+    "hitl_round_2": "data\\synthetic\\human_authored_knowledge\\hitl_feedback_round_2.md",
+    "summary": "data\\synthetic\\human_authored_knowledge\\knowledge_generation_summary.json"
+  }
+}

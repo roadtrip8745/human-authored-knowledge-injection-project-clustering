@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+.venv/
+venv/
+
+# Keep private/internal material out of the public package.
+external/mail-to-report-research/
+data/raw/
+data/private/
+*.pst
+*.ost
+*.msg
+*.eml
+
