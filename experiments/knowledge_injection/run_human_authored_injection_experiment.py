@@ -6,8 +6,8 @@ This script intentionally keeps the previous JIPS baseline untouched. It imports
 the existing evaluator/scoring code from the prior project and runs human-authored knowledge
 as a thin pairwise-score adjustment layer:
 
-- same MD project/canonical match: raise the pair score to a high confidence
-- MD cannot-merge relation: block the pair merge
+- same human-authored project/canonical match: raise the pair score to a high confidence
+- human-authored cannot-merge relation: block the pair merge
 - otherwise: use the original Project Signature score unchanged
 
 HITL feedback files are not used in this experiment; they are left for future
