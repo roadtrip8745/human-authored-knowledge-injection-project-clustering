@@ -885,7 +885,7 @@ def create_markdown_summary(
         "## Recommended IEEE Access Claim",
         "",
         (
-            f"The best MD condition is `{best['condition']}`, improving B-cubed F1 from "
+            f"The best human-authored knowledge condition is `{best['condition']}`, improving B-cubed F1 from "
             f"{baseline['bcubed_f1']:.6f} to {best['bcubed_f1']:.6f} while reducing false merge "
             f"from {baseline['false_merge_count']} to {best['false_merge_count']}."
         ),
