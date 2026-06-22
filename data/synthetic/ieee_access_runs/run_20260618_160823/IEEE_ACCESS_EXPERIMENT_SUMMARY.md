@@ -17,7 +17,7 @@
 
 ## Recommended IEEE Access Claim
 
-The best MD condition is `human_full`, improving B-cubed F1 from 0.381458 to 0.705651 while reducing false merge from 2 to 0.
+The best human-authored knowledge condition is `human_full`, improving B-cubed F1 from 0.381458 to 0.705651 while reducing false merge from 2 to 0.
 
 ## Multi-subset Robustness
 
