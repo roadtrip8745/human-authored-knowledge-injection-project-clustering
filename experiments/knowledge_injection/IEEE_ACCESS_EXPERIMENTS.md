@@ -39,7 +39,7 @@ data\synthetic\ieee_access_runs\run_20260618_142201
      - `multi_subset_summary.csv`
      - `multi_subset_samples/`
 
-5. MD full ablation
+5. Human-authored full ablation
    - remove cannot-merge
    - remove same-project floor
    - remove weak boost
