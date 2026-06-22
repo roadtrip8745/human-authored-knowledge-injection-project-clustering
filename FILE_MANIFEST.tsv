@@ -27,11 +27,10 @@ data\synthetic\ieee_access_runs\run_20260618_160823\synthetic_distribution_bins.
 data\synthetic\ieee_access_runs\run_20260618_160823\threshold_sweep.csv	5034
 data\synthetic\synthetic_emails.jsonl	1947865
 experiments\extraction_pipeline\create_external_test_subset.py	13976
-experiments\knowledge_injection\generate_human_authored_knowledge.py	6435
 experiments\knowledge_injection\IEEE_ACCESS_EXPERIMENTS.md	3370
 experiments\knowledge_injection\run_human_authored_injection_experiment.py	25241
 experiments\knowledge_injection\run_ieee_access_experiments.py	40480
 external\README.md	402
 GITHUB_UPLOAD_GUIDE_KO.md	2660
-LICENSE_NOTICE.md	400
+LICENSE.md	400
 README.md	2939
