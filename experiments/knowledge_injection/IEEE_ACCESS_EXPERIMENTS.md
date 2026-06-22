@@ -11,7 +11,7 @@ python experiments\knowledge_injection\run_ieee_access_experiments.py
 Latest verified output:
 
 ```text
-data\synthetic\ieee_access_runs\run_20260618_142201
+data\synthetic\ieee_access_runs\run_20260618_160823
 ```
 
 ## Included Experiments
@@ -76,7 +76,7 @@ Use these as appendix or supporting material:
 
 Important caveat for `classic_baselines.csv`:
 
-Some simple baselines such as Jaccard can show high F1 by aggressive merging, but they produce many false merges. In enterprise reporting, false merges are high-risk because they combine different projects into one report item. The proposed MD method should be presented as a precision-preserving, false-merge-controlled method rather than as a purely recall-maximizing method.
+Some simple baselines such as Jaccard can show high F1 by aggressive merging, but they produce many false merges. In enterprise reporting, false merges are high-risk because they combine different projects into one report item. The proposed human-authored knowledge method should be presented as a precision-preserving, false-merge-controlled method rather than as a purely recall-maximizing method.
 
 ## Latest Verified Key Results
 
